@@ -1,0 +1,371 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 516px;
+  }
+  
+  .u-section-1 .u-text-1 {
+    margin: 45px auto 0;
+  }
+  
+  .u-section-1 .u-list-1 {
+    margin-top: 45px;
+    margin-bottom: 0;
+  }
+  
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 387px;
+    grid-gap: 0px 0px;
+    grid-auto-columns: 100%;
+  }
+  
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+  
+  .u-section-1 .u-image-1 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Keerthi.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  .u-section-1 .u-image-2 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Jahanvi.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  .u-section-1 .u-text-2 {
+    text-transform: none;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-1 .u-text-3 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  @media (max-width: 1199px) {
+    .u-section-1 .u-text-1 {
+      margin-top: 52px;
+    }
+  
+    .u-section-1 .u-list-1 {
+      margin-top: 38px;
+      height: auto;
+    }
+  
+    .u-section-1 .u-repeater-1 {
+      grid-template-columns: repeat(3, 33.3333%);
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-1 .u-repeater-1 {
+      grid-template-columns: 100%;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-1 .u-repeater-1 {
+      grid-template-columns: repeat(1, 100%);
+    }
+  
+    .u-section-1 .u-container-layout-1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    .u-section-1 .u-list-1 {
+      margin-top: 51px;
+    }
+  }.u-section-2 .u-sheet-1 {
+    min-height: 389px;
+  }
+  
+  .u-section-2 .u-list-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 25% 25% 25% 25%;
+    min-height: 389px;
+    grid-gap: 0px 0px;
+  }
+  
+  .u-section-2 .u-container-layout-1 {
+    padding: 30px;
+  }
+  
+  .u-section-2 .u-image-1 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Sathwik.JPG");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  .u-section-2 .u-text-1 {
+    text-transform: none;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-2 .u-text-2 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  .u-section-2 .u-container-layout-2 {
+    padding: 30px;
+  }
+  
+  .u-section-2 .u-image-2 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/karthik.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  .u-section-2 .u-text-3 {
+    text-transform: none;
+    font-size: 1.5rem;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-2 .u-text-4 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  .u-section-2 .u-container-layout-3 {
+    padding: 30px;
+  }
+  .u-section-2 .u-container-layout-4 {
+    padding: 30px;
+  }
+  
+  .u-section-2 .u-image-3 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Nithin.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  .u-section-2 .u-image-4 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Neha.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  .u-section-2 .u-text-5 {
+    text-transform: none;
+    font-size: 1.5rem;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-2 .u-text-6 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  @media (max-width: 1199px) {
+    .u-section-2 .u-sheet-1 {
+      min-height: 708px;
+    }
+  
+    .u-section-2 .u-list-1 {
+      height: auto;
+    }
+  
+    .u-section-2 .u-repeater-1 {
+      grid-template-columns: repeat(3, 33.3333%);
+      min-height: 559px;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-2 .u-sheet-1 {
+      min-height: 1306px;
+    }
+  
+    .u-section-2 .u-repeater-1 {
+      grid-template-columns: repeat(2, 50%);
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-2 .u-repeater-1 {
+      grid-template-columns: repeat(1, 100%);
+    }
+  
+    .u-section-2 .u-container-layout-1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-section-2 .u-container-layout-2 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-section-2 .u-container-layout-3 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .u-section-2 .u-container-layout-4 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  .u-section-3 .u-image-1 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Navya.JPG");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  .u-section-3 .u-image-2 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/DhanaSree.jpg");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  .u-section-3 .u-image-3 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Sidhu.JPG");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  .u-section-3 .u-image-4 {
+    width: 240px;
+    height: 240px;
+    background-image: url("/images/Sidhu.JPG");
+    background-position: 50% 50%;
+    margin: 0 auto;
+  }
+  
+  
+  
+  
+  .u-section-3 .u-sheet-1 {
+    min-height: 389px;
+  }
+  
+  .u-section-3 .u-list-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 25% 25% 25% 25%;
+    min-height: 389px;
+    grid-gap: 0px 0px;
+  }
+  
+  .u-section-3 .u-container-layout-1 {
+    padding: 30px;
+  }
+  
+  .u-section-3 .u-text-1 {
+    text-transform: none;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-3 .u-text-2 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  .u-section-3 .u-container-layout-2 {
+    padding: 30px;
+  }
+  
+  .u-section-3 .u-text-3 {
+    text-transform: none;
+    font-size: 1.5rem;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-3 .u-text-4 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  .u-section-3 .u-container-layout-3 {
+    padding: 30px;
+  }
+  .u-section-3 .u-container-layout-4 {
+    padding: 30px;
+  }
+  
+  .u-section-3 .u-text-5 {
+    text-transform: none;
+    font-size: 1.5rem;
+    margin: 20px auto 0;
+  }
+  
+  .u-section-3 .u-text-6 {
+    font-weight: 700;
+    margin: 12px auto 0;
+  }
+  
+  @media (max-width: 1199px) {
+    .u-section-3 .u-sheet-1 {
+      min-height: 708px;
+    }
+  
+    .u-section-3 .u-list-1 {
+      height: auto;
+    }
+  
+    .u-section-3 .u-repeater-1 {
+      grid-template-columns: repeat(3, 33.3333%);
+      min-height: 559px;
+    }
+  }
+  
+  @media (max-width: 991px) {
+    .u-section-3 .u-sheet-1 {
+      min-height: 1306px;
+    }
+  
+    .u-section-3 .u-repeater-1 {
+      grid-template-columns: repeat(2, 50%);
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .u-section-3 .u-repeater-1 {
+      grid-template-columns: repeat(1, 100%);
+    }
+  
+    .u-section-3 .u-container-layout-1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-section-3 .u-container-layout-2 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .u-section-3 .u-container-layout-3 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .u-section-3 .u-container-layout-4 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
